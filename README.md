@@ -14,12 +14,7 @@
 </p>
 
 ## About Me:
-
 I'm a software engineer specializing in full stack web development. I am always open to learn new technologies!
-### Hobbies:
- - Hiking
- - Amateur guitarist
- - Pro Camper
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -42,6 +37,9 @@ I'm a software engineer specializing in full stack web development. I am always 
 
 ## Connect With Me!
 <a href="https://www.linkedin.com/in/scottdialo/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Connect](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
+
 
 
  
