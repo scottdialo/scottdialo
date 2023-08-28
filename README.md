@@ -14,7 +14,7 @@
 </p>
 
 ## About Me:
-I'm a software engineer specializing in full stack web development. I am always open to learn new technologies!
+Software Engineer with 3+ years experience in Javascript, React, MongoDb Full Stack Engineer
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
