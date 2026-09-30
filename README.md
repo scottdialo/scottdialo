@@ -4,7 +4,7 @@
 
 <h3 align="center">
  
-![Demandez moi n'importe quoi, Je Parle français !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi,%20Je%20parle%20français!-1abc9c.svg)
+![Let's building some amazing !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi,%20Je%20parle%20français!-1abc9c.svg)
 
 </h3>
 
