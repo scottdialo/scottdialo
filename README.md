@@ -2,11 +2,11 @@
   Welcome to Scott Dialo's profile!
 </h3>
 
-<h3 align="center">
+<h1 align="center">
  
-![Let's building some amazing !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi,%20Je%20parle%20français!-1abc9c.svg)
+![Let's build something amazing !](https://img.shields.io/badge/Lets%20build-something%20amazing.svg)
 
-</h3>
+</h1>
 
 <p align="center">
 <!--   Typing SVG  -->
